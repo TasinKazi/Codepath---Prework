@@ -1,9 +1,8 @@
 # Codepath---Prework
 Application allows you to the change the color of the text
-## NAME_OF_YOUR_APP_HERE
+## Green Minions
 
-### App Description
-`TODO://` Add app description
+### Application allows you to the change the color of the text
 
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
