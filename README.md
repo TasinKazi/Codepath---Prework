@@ -7,7 +7,7 @@ Application allows you to the change the color of the text
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="http://g.recordit.co/Yk6mdB6qf7.gif" width=200><br>
 
 ### Required User Stories
 - [+] 1. User sees custom text in a label - Hello from {name}!
